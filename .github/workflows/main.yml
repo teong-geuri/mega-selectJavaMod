@@ -1,7 +1,7 @@
 name: Build and Release Mod
 on:
   push:
-    branches: [main]
+    branches: [master]
 
 jobs:
   buildJar:
