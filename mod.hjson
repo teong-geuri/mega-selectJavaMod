@@ -8,7 +8,7 @@ name: "mega-select-mod"
 author: "teong_geuri"
 
 #the fully qualified main class of the mod
-main: "example.ExampleJavaMod"
+main: "main"
 
 #the mod description as seen in the mod dialog
 description: "A Mindustry Java mod template."
